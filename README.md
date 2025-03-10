@@ -18,10 +18,10 @@ This project is an ESP32-based application that connects to the Steam Web API to
 ## Required Libraries
 
 Install via Arduino Library Manager (Sketch -> Include Library -> Manage Libraries...):
-- WiFi - For handling Wi-Fi connectivity on ESP32 devices.
-- HTTPClient - For making HTTP requests to the Steam API.
-- ArduinoJson - For parsing JSON responses from the Steam API. (Install version 6.x or later)
-- TFT_eSPI - For handling graphics and displaying content on TFT displays.
+- `WiFi` - For handling Wi-Fi connectivity on ESP32 devices.
+- `HTTPClient` - For making HTTP requests to the Steam API.
+- `ArduinoJson` - For parsing JSON responses from the Steam API. (Install version 6.x or later)
+- `TFT_eSPI` - For handling graphics and displaying content on TFT displays.
 Note: You will need to configure this library for your specific TFT screen. Follow the documentation provided on the library’s GitHub page.
 
 ## Software Requirements
@@ -62,3 +62,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Acknowledgments
 - Thanks to the developers of `TFT_eSPI` and `ArduinoJson` libraries for making this project possible.
 
+## Board
+https://www.amazon.com/dp/B0D6QXC813?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
