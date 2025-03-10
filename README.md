@@ -15,6 +15,15 @@ This project is an ESP32-based application that connects to the Steam Web API to
 - **ESP32 Board** (e.g., NodeMCU-32S, Wemos D1 Mini ESP32)
 - **TFT Display** (Compatible with TFT_eSPI library)
 
+## Required Libraries
+
+Install via Arduino Library Manager (Sketch -> Include Library -> Manage Libraries...):
+- WiFi - For handling Wi-Fi connectivity on ESP32 devices.
+- HTTPClient - For making HTTP requests to the Steam API.
+- ArduinoJson - For parsing JSON responses from the Steam API. (Install version 6.x or later)
+- TFT_eSPI - For handling graphics and displaying content on TFT displays.
+Note: You will need to configure this library for your specific TFT screen. Follow the documentation provided on the library’s GitHub page.
+
 ## Software Requirements
 - **Arduino IDE** or PlatformIO
 - **TFT_eSPI Library** (Install via Arduino Library Manager)
