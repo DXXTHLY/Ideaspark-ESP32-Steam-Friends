@@ -65,7 +65,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Board
 https://www.amazon.com/dp/B0D6QXC813?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 
-## Backgroud
+## Background Image
 - If you would like the change the background, here are the settings I used as well as the website: https://notisrac.github.io/FileToCArray/
 ![ss](https://github.com/user-attachments/assets/ab899da0-03d5-4966-9e68-2d128b7ff793)
 
