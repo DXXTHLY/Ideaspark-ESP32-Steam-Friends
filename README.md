@@ -67,6 +67,8 @@ https://www.amazon.com/dp/B0D6QXC813?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 
 ## Background Image
 - If you would like the change the background, here are the settings I used as well as the website: https://notisrac.github.io/FileToCArray/
+- If you want to make it even easier on yourself before uploading the image into `FileToCArray` rename the picture to `Screenshot 2025-03-10 135855.png`.
+
 ![ss](https://github.com/user-attachments/assets/ab899da0-03d5-4966-9e68-2d128b7ff793)
 
 
