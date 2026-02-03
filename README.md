@@ -2,6 +2,28 @@
 
 # Steam Friends List Display
 
+##  NEW PROJECT UPDATE (V2.0)
+
+I have just released a major update to both the **Generator Tool** and the **Source Code**! Here is what's new:
+
+### 🛠️ Generator Tool Update (Easy Setup)
+If you aren't a coder or don't want to manually edit the script, use the **Generator Update**. 
+*   **What it does:** It provides a simple window where you can type in your WiFi and Steam info and select any image. It automatically resizes your image and builds the entire code file for you. No setup or manual editing required!
+*   👉 [**Download Generator Update here**](https://github.com/DXXTHLY/Ideaspark-ESP32-Steam-Friends/releases/tag/ideaspark-esp32-wroom-no-setup)
+
+---
+
+###  Full Program & Source File Update
+For those who want to see the code or edit it manually, the main project file has been completely overhauled.
+*   **New Features:**
+    *   **New Boot Sequence:** Added an Intro and a Privacy Notice screen.
+    *   **"Establishing Uplink" Screen:** A new, cooler WiFi connection screen with a functional progress bar.
+    *   **Improved Status:** Friends set to "Away" now specifically show as **Away** in yellow (instead of just Online).
+    *   **Code Optimization:** Smoother scrolling for long names and game titles.
+*   👉 [**Download Full Program/File Update here**](https://github.com/DXXTHLY/Ideaspark-ESP32-Steam-Friends/releases/tag/ideaspark-esp32-wroom-steam-friends-tracker)
+
+---
+
 ## Overview
 This project is an ESP32-based application that connects to the Steam Web API to retrieve and display a user's Steam friends list and their online status. The information is displayed on a TFT screen connected to the ESP32.
 
