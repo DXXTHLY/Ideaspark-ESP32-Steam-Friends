@@ -2,6 +2,8 @@
 
 # Steam Friends List Display
 
+# If you would like to SUPPORT my project & buy one: [CLICK HERE](https://www.etsy.com/listing/4455215621/steam-friends-display-real-time-gaming?ref=shop_home_feat_1&frs=1&logging_key=47bdea510eb10d17557ba89c4dec7f378f697ccf%3A4455215621)
+
 ##  NEW PROJECT UPDATE (V2.0)
 
 I have just released a major update to both the **Generator Tool** and the **Source Code**! Here is what's new:
