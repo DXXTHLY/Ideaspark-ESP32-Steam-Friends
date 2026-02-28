@@ -4,6 +4,8 @@
 
 # If you would like to SUPPORT my project & buy one: [CLICK HERE](https://www.etsy.com/listing/4455215621/steam-friends-display-real-time-gaming?ref=shop_home_feat_1&frs=1&logging_key=47bdea510eb10d17557ba89c4dec7f378f697ccf%3A4455215621)
 
+[CLICK HERE TO BUY A CASE/STAND](https://www.etsy.com/listing/4458257561/steam-friends-display-stand-desk-riser?ref=shop_home_feat_2&logging_key=e0c76b1fda9bdfe1da56a03b8947f078af214097%3A4458257561)
+
 ##  NEW PROJECT UPDATE (V2.0)
 
 I have just released a major update to both the **Generator Tool** and the **Source Code**! Here is what's new:
